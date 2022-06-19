@@ -22,4 +22,4 @@ This project to view all Daily news over the world.
 
 ![screen4](https://user-images.githubusercontent.com/65861519/174480365-c015bc27-9952-444f-8188-c84985f2fbff.PNG)
 
-you can find app apk in:  ---> build\app\outputs\apk\release
+you can find app apk in:  ---> apk\release
